@@ -9,23 +9,36 @@ Los miembros publicos y por defecto se heredan */
 
 class Poligono {
 
-    public int ancho ;
+    private int ancho;
 
-    public int altura;
+    private int altura;
 
-    void set_atributos (int a, int b) {
-        ancho=a; altura=b;
+    public int getAncho() {
+        return ancho;
+    }
+
+    public int getAltura() {
+        return altura;
+    }
+
+    private void setAncho(int a) {
+        this.ancho = a;
+    }
+
+    private void setAltura(int b) {
+        this.altura = b;
+    }
+
+    public void set_atributos (int a, int b) {
+        setAncho(a);
+        setAltura(b);
     }
 }
 
 class Rectangulo extends Poligono {
-
-    Poligono miPoligono = new Poligono();
-    
     public int area() {
-
-        return (ancho * altura); }
-
+        return (getAncho() * getAltura());
+    }
 }
 
 class Main {
@@ -48,10 +61,9 @@ class Main {
 
         int s2 = Integer.parseInt(br.readLine());
 
-        recta.set_atributos (s1,s2);
+        recta.set_atributos(s1,s2);
 
         System.out.print("AREA DEL RECTANGULO: " + recta.area() );
 
     }}
-
 

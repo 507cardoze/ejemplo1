@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf85fbd3-01e6-40cf-b01a-ab5fc58b2685" name="Changes" comment="" />
+    <list default="true" id="8143eca1-2060-4fac-a876-c8adbd03259e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="26pwtmpwPlFKpwg1fxYKEnJSiCn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="26qBs0GLqhtKYxqPXVIL5wx8UZf" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -77,7 +70,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.anthony.Main" />
-      <module name="ejemplo 1" />
+      <module name="ejemplo 1 utp" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -94,11 +87,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf85fbd3-01e6-40cf-b01a-ab5fc58b2685" name="Changes" comment="" />
-      <created>1648134056275</created>
+      <changelist id="8143eca1-2060-4fac-a876-c8adbd03259e" name="Changes" comment="" />
+      <created>1648141441397</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648134056275</updated>
+      <updated>1648141441397</updated>
     </task>
     <servers />
   </component>
